@@ -1,10 +1,11 @@
-## This was migrated to https://github.com/rabbitmq/rabbitmq-server
-
-All issues have been transferred, archiving.
-
 # RabbitMQ Web MQTT plugin
 
 This plugin provides support for MQTT-over-WebSockets to RabbitMQ.
+
+## This was migrated to https://github.com/rabbitmq/rabbitmq-server
+
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_web_mqtt](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_web_mqtt).
+All issues have been transferred.
 
 ## Installation
 
